@@ -5,11 +5,12 @@ taboola.com
 api.taboola.com
 popup.taboola.com
 account.microsoft.com
-account.microsoft.com/privacy/ad-settings/
 www.bing.com
 intent.msn.com
 comparecards.com
 smartasset.com
+api.outbrain.cm
+paid.outbrain.com
 outbrain.com
 searchads.msn.net
 quotewizard.com
@@ -20,3 +21,4 @@ wfzvjbdicihe.com
 nordvpn.com
 deloplen.com
 verystream.com
+www.netfinancialnews.com
