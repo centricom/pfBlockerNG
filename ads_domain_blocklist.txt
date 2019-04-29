@@ -25,7 +25,8 @@ verystream.com
 www.netfinancialnews.com
 ads.revjet.com
 www.media.net
-#
+
+# Trackers
 static-global-s-msn-com.akamaized.net
 s.aolcdn.com
 linkmaker.itunes.apple.com
@@ -35,7 +36,6 @@ connect.facebook.net
 ads.twitter.com
 cms.analytics.yahoo.com
 banner.advertising.com
-c.msn.com
 contextual.media.net
 at.atwola.com
 c.bing.com
@@ -54,7 +54,6 @@ lg3.media.net
 ping.chartbeat.net
 sb.scorecardresearch.com
 widgets.outbrain.com
-ib.adnxs.com
 sam.msn.com
 acdn.msn.com
 acdn.adnsx.com
