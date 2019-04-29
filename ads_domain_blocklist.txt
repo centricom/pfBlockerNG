@@ -6,6 +6,7 @@ api.taboola.com
 popup.taboola.com
 account.microsoft.com
 www.bing.com
+intent.bingads.com
 intent.msn.com
 www.comparecards.com
 smartasset.com
