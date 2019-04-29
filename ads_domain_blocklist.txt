@@ -1,4 +1,4 @@
-geistm.com
+i.geistm.com
 adfarm.mediaplex.com
 www.googleadservices.com
 taboola.com
@@ -7,7 +7,7 @@ popup.taboola.com
 account.microsoft.com
 www.bing.com
 intent.msn.com
-comparecards.com
+www.comparecards.com
 smartasset.com
 api.outbrain.cm
 paid.outbrain.com
@@ -22,6 +22,8 @@ nordvpn.com
 deloplen.com
 verystream.com
 www.netfinancialnews.com
+ads.revjet.com
+www.media.net
 #
 static-global-s-msn-com.akamaized.net
 s.aolcdn.com
