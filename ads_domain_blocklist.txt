@@ -1,3 +1,5 @@
+www.nextadvisor.com
+nextadvisor.com
 i.geistm.com
 adfarm.mediaplex.com
 www.googleadservices.com
@@ -25,6 +27,10 @@ verystream.com
 www.netfinancialnews.com
 ads.revjet.com
 www.media.net
+topixrewind.com
+policies.oath.com
+lax1-ib.adnxs.com
+adnxs.com
 
 # Trackers
 static-global-s-msn-com.akamaized.net
@@ -58,13 +64,11 @@ sam.msn.com
 acdn.msn.com
 acdn.adnsx.com
 dsp.adfarm1.adition.com
-images.taboola.com
 api-s2s.taboola.com
 dis.criteo.com
 cm.g.doubleclick.net
 odr.mookie1.com
 pr-bh.ybp.yahoo.com
-match.adsrvr.org
 cms.quantserver.com
 p.rfihub.com
 sync.search.spotxchange.com
