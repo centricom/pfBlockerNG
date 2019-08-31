@@ -1,0 +1,6 @@
+0.0.0.0	go.bankingrates.com
+0.0.0.0	bankingrates.com
+0.0.0.0	searchads.msn.net
+0.0.0.0 api.taboola.com
+0.0.0.0	popup.taboola.com
+0.0.0.0	taboola.com
