@@ -1,3 +1,4 @@
+sifuglie.com
 wisebread.com
 static-spartan-wus-s-msn-com.akamaized.net
 hqq.tv
@@ -26,6 +27,7 @@ taboola.com
 api.taboola.com
 popup.taboola.com
 account.microsoft.com
+www.bing.com
 intent.bingads.com
 intent.msn.com
 www.comparecards.com
